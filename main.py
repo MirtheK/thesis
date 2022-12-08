@@ -4,6 +4,7 @@ from functions import *
 from tifffile import imwrite
 
 
+
 def main_func(path, string='*ch00*.tif'):
     datapath = "/home/mkamphuis/public/10 Students/2022/Mirthe Kamphuis/Master Thesis/04_Raw Data/Data/"
     # datapath = "/home/mkamphuis/public/10 Students/2022/Mirthe Kamphuis/Master Thesis/05_Processed Data/3"
